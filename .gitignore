@@ -1,0 +1,5 @@
+.vercel/
+*.pptx
+zeiss_demo (1).html
+.DS_Store
+Thumbs.db
